@@ -2,7 +2,7 @@
 
 免费的代理IP，定时更新，定期更新
 
-最新更新日期：2019-05-17 12:31:12 
+最新更新日期：2019-05-17 13:31:05 
 
  
         [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/free-proxy-list) 
@@ -14,35 +14,33 @@
 |62.210.105.103|3128|https|low|France|
 |139.59.156.228|3128|https|low|Germany|
 |198.211.125.152|3128|https|low|Netherlands|
-|94.242.59.135|655|https|high|Russian Federation Moscow|
+|94.242.55.108|655|https|high|Russian Federation Moscow|
+|185.22.174.68|655|https|high|Russian Federation "St Petersburg"|
 |194.48.212.1|3128|https|high|Ukraine|
 |138.201.25.241|3128|https|low|Germany|
 |185.80.130.17|80|https|high|Lithuania|
 |185.34.52.156|80|https|high|Lithuania Vilnius|
 |138.68.150.245|3128|https|low|United|
 |37.79.244.120|3128|https|low|Russian Federation|
-|138.68.166.224|3128|https|medium|United Kingdom London|
-|138.68.166.224|8080|https|medium|United Kingdom London|
 |81.171.24.199|3128|https|high|Netherlands|
 |188.165.4.213|8080|https|low|Ireland|
-|80.240.25.63|1080|https|high|Germany|
-|91.208.39.70|8080|https|high|Russian Federation|
+|138.68.166.224|8080|https|medium|United Kingdom London|
 |89.218.177.179|3128|https|high|Kazakstan|
-|188.152.127.95|8118|https|high|Italy Genoa|
-|84.22.139.241|3128|https|high|Russian Federation Krasnoyarsk|
+|91.208.39.70|8080|https|high|Russian Federation|
+|34.244.45.65|3128|https|high|Ireland Dublin|
+|128.0.130.232|10625|https|high|Russian Federation Moscow|
 |80.211.231.6|3128|https|low|Italy|
-|188.216.98.84|8118|https|high|Italy "Buttigliera Alta"|
 |176.107.133.176|8080|https|high|Poland Warsaw|
-|188.152.139.204|8118|https|high|Italy Lissone|
 |163.172.182.164|3128|https|high|France|
+|188.216.98.84|8118|https|high|Italy "Buttigliera Alta"|
 |188.116.8.251|3128|https|low|Poland|
 |188.152.136.71|8118|https|high|Italy "San Gervasio Bresciano"|
+|54.37.6.196|3128|https|high|United Kingdom|
 |188.138.235.56|3128|https|high|Moldova Chisinau|
 |128.0.130.232|10603|https|high|Russian Federation Moscow|
-|54.37.6.196|3128|https|high|United Kingdom|
 |193.194.69.36|3128|https|low|Algeria|
-|2.39.150.215|8118|https|high|Italy Rome|
 |2.39.102.197|8118|https|high|Italy Rome|
+|2.39.150.215|8118|https|high|Italy Rome|
 |217.91.227.43|3128|https|low|Germany Nieby|
 |2.38.29.170|8118|https|high|Italy Florence|
 |2.38.119.167|8118|https|high|Italy Empoli|
@@ -52,56 +50,58 @@
 |46.163.186.9|3129|https|low|Russia|
 |195.83.13.203|3128|https|high|France|
 |91.189.129.134|3128|https|high|Ukraine Zaporizhia|
+|128.0.130.232|10612|https|high|Russian Federation Moscow|
 |185.161.224.226|3128|https|high|Azerbaijan|
 |31.173.188.190|3128|https|low|Russia|
 |89.117.207.217|53281|https|low|Lithuania|
 |66.70.191.219|3128|https|high|Canada Montreal|
-|185.124.86.10|3128|https|high|Turkey Istanbul|
 |221.126.249.100|8080|https|high|Hong Kong|
 |159.203.79.132|3128|https|low|United|
+|185.124.86.10|3128|https|high|Turkey Istanbul|
 |221.126.249.101|8080|https|high|Hong Kong|
+|185.124.86.11|3128|https|high|Turkey Istanbul|
 |122.183.139.101|8080|https|high|India|
 |74.208.83.188|80|https|medium|United States Wayne|
-|119.81.71.27|8123|https|high|Singapore Singapore|
+|118.140.151.98|3128|https|low|Hong Kong Kowloon|
 |195.235.234.139|80|https|low|Spain|
-|119.81.71.27|31288|https|high|Singapore Singapore|
+|158.69.223.57|8118|https|high|Canada Montreal|
 |219.107.218.202|8080|https|high|Japan Ashiya|
 |163.172.164.118|3128|https|low|France|
 |34.207.150.171|3128|https|low|United|
 |80.179.157.80|80|https|high|Israel|
+|128.0.130.232|10617|https|high|Russian Federation Moscow|
+|80.179.157.80|80|https|high|Israel|
 |139.59.19.86|8080|https|low|India|
-|206.222.8.52|3128|https|high|United States Columbus|
 |185.82.212.95|8080|https|high|Czech Republic|
+|206.222.8.52|3128|https|high|United States Columbus|
 |104.248.159.30|3128|https|medium|Singapore Singapore|
-|157.230.33.25|8080|https|medium|Singapore Singapore|
 |128.14.134.174|1080|https|high|United States "Los Angeles"|
 |185.82.200.189|8080|https|high|Netherlands Amsterdam|
 |185.172.215.74|8080|https|low|Iran|
 |157.230.33.168|8080|https|medium|Singapore Singapore|
+|119.81.71.27|31288|https|high|Singapore Singapore|
 |165.227.56.12|8080|https|low|United|
 |128.14.173.214|1080|https|high|United States "Los Angeles"|
 |157.230.240.78|3128|https|medium|Singapore Singapore|
 |202.63.215.46|3128|https|unknown|Pakistan|
 |112.121.60.36|8085|https|high|India|
+|103.108.140.135|8080|https|high|Bangladesh Dhaka|
 |82.222.47.146|8080|https|low|Turkey|
 |139.59.19.86|3128|https|low|India|
-|103.108.140.135|8080|https|high|Bangladesh Dhaka|
-|104.248.7.88|8080|https|medium|United States Clifton|
-|18.221.92.110|3128|https|high|United States Columbus|
+|13.236.179.177|3128|https|high|Australia Sydney|
 |47.91.29.142|3128|https|high|Japan Tokyo|
-|165.90.35.206|3128|https|low|South Africa Vereeniging|
 |165.227.56.12|3128|https|low|United|
-|47.74.15.236|3128|https|high|Japan Tokyo|
 |190.92.64.210|80|https|low|Honduras|
 |128.199.100.124|8080|https|low|Singapore|
 |168.63.139.99|3128|https|low|Hong|
 |182.253.122.142|3128|https|high|Indonesia|
 |102.177.193.220|3128|https|high|Zimbabwe|
+|18.221.92.110|3128|https|high|United States Columbus|
 |89.236.17.108|3128|https|unknown|Sweden|
 |207.148.72.45|8080|https|high|Singapore Singapore|
 |202.99.172.145|8081|https|low|China|
-|150.109.198.64|1080|https|high|Japan|
 |150.109.204.143|1080|https|high|Japan|
+|150.109.198.64|1080|https|high|Japan|
 |182.253.201.76|10000|https|low|Indonesia|
 |45.77.203.73|8080|https|low|United|
 |159.65.5.189|3128|https|low|Singapore|
@@ -116,8 +116,8 @@
 |128.199.100.124|80|https|low|Singapore|
 |124.133.97.17|8118|https|unknown|China|
 |128.199.100.124|3128|https|low|Singapore|
-|51.218.176.32|8080|https|low|Saudi|
 |45.4.144.102|8080|https|low|Brazil|
+|51.218.176.32|8080|https|low|Saudi|
 |165.227.104.78|3128|https|unknown|United|
 |128.199.95.132|80|https|low|Singapore|
 |41.160.222.187|53281|https|high|South|
@@ -126,659 +126,659 @@
 |128.199.172.140|3128|https|low|Singapore|
 |198.71.63.215|3128|https|low|United|
 |183.88.44.88|8080|https|low|Thailand|
-|103.112.212.30|82|http|low|India|
-|27.147.210.35|8080|http|low|Bangladesh|
-|212.3.97.74|3128|https|high|Ukraine|
-|69.10.47.1|8080|http|low|United States|
-|119.110.75.50|8080|http|low|Indonesia|
-|149.248.33.121|80|http|high|United States|
-|183.89.202.138|8080|http|low|Thailand|
-|159.65.15.212|3128|http|low|Singapore|
-|165.22.253.195|3128|https|high|Singapore|
-|1.20.101.234|38984|https|high|Thailand|
-|43.255.22.34|8080|http|low|Bangladesh|
-|81.23.32.47|443|https|medium|France|
-|3.94.179.175|80|http|high|United States|
-|154.0.15.166|61880|https|high|South Africa|
-|88.157.149.250|8080|https|medium|Portugal|
-|134.209.209.76|8080|http|medium|United States|
-|186.24.11.165|8080|https|medium|Venezuela|
-|52.207.220.249|3128|https|high|United States|
-|185.251.182.135|8085|http|low|United States|
-|108.59.10.129|55555|https|medium|United States|
-|5.206.233.106|60867|https|high|Kosovo|
-|36.91.125.209|8080|http|low|Indonesia|
-|181.129.47.27|50299|http|high|Colombia|
-|161.117.86.98|3128|https|medium|Singapore|
-|146.82.236.133|43415|https|high|United States|
-|202.5.49.132|8080|http|low|Bangladesh|
-|125.162.65.238|8080|http|low|Indonesia|
-|162.248.247.153|32592|http|high|United States|
-|165.22.253.195|3128|https|high|Singapore|
-|40.112.176.201|3128|https|medium|United States|
-|73.55.76.54|8080|https|high|United States|
-|45.79.220.99|3128|http|low|United States|
-|167.99.155.123|80|http|medium|United States|
-|165.22.138.134|8118|https|medium|United States|
-|109.236.52.153|8085|http|low|United States|
-|193.86.25.202|49353|https|high|Czech Republic|
-|185.252.214.188|8085|http|low|United States|
-|185.200.37.85|8080|http|low|Turkey|
-|138.121.25.16|41706|http|low|Brazil|
-|217.23.176.215|40242|https|high|Russian Federation|
-|187.111.192.146|44737|https|high|Brazil|
-|103.250.152.62|36664|https|high|India|
-|24.35.1.5|52867|http|low|United States|
-|37.28.189.92|39962|http|high|Russian Federation|
-|121.58.246.247|8080|http|low|Philippines|
-|1.20.102.54|8080|http|low|Thailand|
-|103.252.117.100|8080|http|low|India|
-|182.23.81.82|3128|http|low|Indonesia|
-|124.41.243.22|50948|https|high|Nepal|
-|3.213.222.172|8080|http|medium|United States|
-|200.35.56.81|37441|https|high|Colombia|
-|80.80.160.252|8080|https|unknown|Albania|
-|69.30.217.114|19019|http|low|United States|
-|210.48.204.134|48588|http|high|Malaysia|
-|58.147.148.190|8080|http|low|Afghanistan|
-|85.216.234.155|3128|http|high|Slovakia|
-|193.169.5.14|39602|http|low|Russian Federation|
-|82.135.213.55|8080|http|low|Lithuania|
-|47.219.239.55|8080|http|low|United States|
-|195.123.238.112|80|http|low|Singapore|
-|94.244.191.219|3128|https|high|Ukraine|
-|50.239.245.103|80|http|medium|United States|
-|104.216.26.181|5599|http|low|United States|
-|38.127.88.11|1337|http|low|United States|
-|68.183.89.240|3128|http|low|India|
-|50.84.27.59|8080|http|low|United States|
-|202.62.11.106|8080|http|low|Indonesia|
-|95.46.225.63|45017|http|high|Russian Federation|
-|184.145.157.8|443|http|low|Canada|
-|167.99.67.234|8080|https|medium|Singapore|
-|34.80.236.158|80|http|high|United States|
-|104.152.45.46|80|http|medium|United States|
-|137.74.109.229|3128|http|high|France|
-|206.189.95.220|80|http|medium|Singapore|
-|45.55.58.184|8080|http|low|United States|
-|190.52.193.90|63141|http|low|Ecuador|
-|118.175.226.30|55778|https|high|Thailand|
-|82.99.213.36|80|https|unknown|Iran, Islamic Republic of|
-|36.255.87.250|82|http|low|India|
-|31.0.213.224|30256|http|low|Poland|
-|35.247.219.104|80|http|medium|United States|
-|176.9.25.84|80|https|medium|Germany|
-|210.96.153.20|3128|https|unknown|Korea, Republic of|
-|183.88.52.191|8080|http|low|Thailand|
-|110.74.222.106|46975|http|low|Cambodia|
-|180.245.138.95|8080|http|low|Indonesia|
-|170.150.137.191|8080|http|low|Brazil|
-|95.129.97.13|38392|http|high|Czech Republic|
-|5.59.52.241|8080|http|low|Russian Federation|
-|111.67.71.122|8080|http|low|Indonesia|
-|177.185.216.227|21776|https|high|Brazil|
-|189.89.231.218|8080|http|low|Brazil|
-|104.139.71.127|58366|http|low|United States|
-|149.28.120.36|80|https|high|United States|
-|91.192.5.149|23500|https|high|Iraq|
-|201.158.60.153|41119|http|low|Brazil|
-|104.236.248.219|3128|http|low|United States|
-|104.42.155.88|80|http|high|United States|
-|121.33.226.167|3128|https|medium|China|
-|190.144.121.30|80|http|low|Colombia|
-|159.203.160.15|3128|https|high|United States|
-|38.127.88.11|1337|http|low|United States|
-|220.82.104.144|8080|http|high|Korea|
-|87.248.54.210|8080|https|medium|Italy|
-|160.202.129.10|8081|http|low|Bangladesh|
-|195.239.100.30|3128|https|high|Russian Federation|
-|50.116.35.183|3128|http|low|United States|
-|111.240.244.154|8998|https|medium|Taiwan|
-|191.37.3.157|48703|https|high|Brazil|
-|31.40.254.107|8085|http|low|United States|
-|173.161.0.227|80|https|unknown|United States|
-|181.55.127.107|8080|http|low|Colombia|
-|165.90.35.206|3128|https|medium|South Africa|
-|118.175.240.205|52601|https|high|Thailand|
-|35.221.3.182|3128|http|high|United States|
-|70.169.150.235|48678|http|low|United States|
-|190.3.118.26|34881|http|low|Argentina|
-|178.128.72.132|80|http|medium|United States|
-|168.227.76.174|8080|http|low|Brazil|
-|103.85.16.185|34620|http|high|India|
-|59.152.61.99|3128|http|low|Bangladesh|
-|64.20.35.141|3128|http|low|United States|
-|168.228.148.35|8080|http|low|Brazil|
-|161.117.86.98|3128|https|medium|Singapore|
-|162.243.102.207|3128|http|low|United States|
-|194.88.251.87|8080|http|low|Bulgaria|
-|157.230.13.186|8080|http|medium|United States|
-|54.193.33.252|80|http|low|United States|
-|96.126.111.95|3128|https|high|United States|
-|45.7.241.172|8080|http|low|Argentina|
-|50.239.245.109|80|http|low|United States|
-|104.248.112.25|8080|http|low|United States|
-|156.239.15.61|6604|http|low|United States|
-|139.194.174.99|8080|http|low|Indonesia|
-|50.84.27.59|8080|http|low|United States|
-|12.8.246.57|41845|https|high|United States|
-|68.183.115.96|3128|http|low|United States|
-|104.216.26.171|5593|http|low|United States|
-|178.124.150.126|81|https|medium|Belarus|
-|203.190.54.50|8080|http|low|Indonesia|
-|159.65.74.11|80|http|low|United States|
-|213.59.251.247|8080|https|high|Russian Federation|
-|207.148.72.45|8080|https|high|Singapore|
-|212.31.76.67|80|http|low|Austria|
-|138.68.235.72|8080|http|medium|United States|
-|216.105.64.186|8080|https|unknown|United States|
-|186.148.164.238|999|http|low|Colombia|
-|78.186.194.45|8080|http|low|Turkey|
-|74.85.156.90|8888|http|low|Puerto Rico|
-|104.216.26.173|5591|http|low|United States|
-|38.86.51.101|3128|https|high|United States|
-|35.221.59.43|3128|https|high|United States|
-|103.214.188.52|8080|http|low|India|
-|18.218.144.85|8080|http|low|United States|
-|142.54.179.98|19020|http|low|United States|
-|35.247.219.104|80|http|medium|United States|
-|104.152.45.45|80|http|medium|United States|
-|181.196.138.218|31630|https|high|Ecuador|
-|23.20.225.146|3128|http|low|United States|
-|178.128.208.80|8181|http|low|Singapore|
-|207.254.55.87|80|http|high|United States|
-|168.195.85.126|20183|http|low|Brazil|
-|175.136.205.137|8080|https|unknown|Malaysia|
-|34.218.113.19|3128|http|medium|United States|
-|183.88.111.148|8080|http|low|Thailand|
-|159.65.131.98|3128|https|high|Singapore|
-|181.143.73.34|53281|http|low|Colombia|
-|31.40.255.160|8085|http|low|United States|
-|3.14.52.91|3128|http|medium|United States|
-|203.223.143.51|8080|https|unknown|Malaysia|
-|155.138.234.101|8080|http|low|United States|
-|173.255.230.21|3128|https|high|United States|
-|45.114.73.124|8080|http|low|India|
-|180.241.134.39|8080|http|low|Indonesia|
-|202.79.46.149|52316|https|high|Nepal|
-|189.61.70.210|80|http|low|Brazil|
-|185.78.133.141|8080|http|low|Poland|
-|89.109.190.182|8080|http|low|Russian Federation|
-|186.15.49.12|8080|http|low|Costa Rica|
-|185.105.4.109|3128|http|low|Romania|
-|125.26.53.213|8080|http|low|Thailand|
-|95.134.195.78|38173|https|high|Ukraine|
-|66.70.191.219|3128|http|high|Canada|
-|125.26.99.207|45724|https|high|Thailand|
-|73.55.76.54|8080|https|high|United States|
-|80.253.227.34|8080|http|low|Russian Federation|
-|97.73.172.126|87|http|low|United States|
-|173.208.187.10|3128|https|medium|United States|
-|200.195.167.4|63238|http|low|Brazil|
-|52.203.205.63|80|http|high|United States|
-|158.140.180.170|8080|http|low|Indonesia|
-|159.89.128.64|3128|https|high|United States|
-|209.155.147.13|8080|https|unknown|United States|
-|36.67.54.107|8080|http|low|Indonesia|
-|201.243.89.229|8080|http|low|Venezuela|
-|192.162.62.197|59246|http|high|Poland|
-|195.138.93.34|3128|https|high|Ukraine|
-|1.179.238.30|8080|http|low|Thailand|
-|41.223.143.78|3128|http|low|Botswana|
-|109.69.4.162|63141|http|low|Albania|
-|50.246.120.125|8080|http|low|United States|
-|104.254.236.167|808|http|low|United States|
-|157.230.149.189|80|http|medium|United States|
-|115.124.72.166|44885|https|high|Indonesia|
-|50.244.252.166|8081|http|low|United States|
-|47.189.83.192|53281|http|low|United States|
-|138.121.32.133|23492|https|high|Brazil|
-|148.72.23.193|80|http|low|United States|
-|157.230.176.187|8080|http|medium|United States|
-|45.175.182.172|8080|http|low|Brazil|
-|118.171.222.183|3128|https|medium|Taiwan|
-|94.180.245.109|37533|http|low|Russian Federation|
-|103.97.85.173|59175|http|high|India|
-|203.82.38.30|8090|http|low|Philippines|
-|31.46.218.152|8080|http|low|Hungary|
-|159.69.211.173|3128|https|medium|Germany|
-|200.68.27.100|3128|https|unknown|Chile|
-|118.175.220.30|8089|https|medium|Thailand|
-|62.169.187.81|8080|http|low|Slovakia|
-|160.19.245.59|52829|https|high|Brazil|
-|40.114.109.214|3128|https|medium|United States|
-|83.168.86.189|8090|http|low|Poland|
-|35.182.94.43|3128|http|medium|Canada|
-|49.156.45.227|8080|http|low|Cambodia|
-|93.183.125.155|55804|http|low|Russian Federation|
-|167.99.84.71|3128|https|medium|United Kingdom|
-|52.124.6.146|40834|https|high|United States|
-|119.160.183.246|8118|https|medium|Brunei Darussalam|
-|95.65.79.119|53281|http|low|Moldova, Republic of|
-|201.212.146.145|8080|http|low|Argentina|
-|194.78.121.114|3128|https|medium|Belgium|
-|213.6.226.242|43494|https|high|Palestinian Territory|
-|1.10.188.93|34871|http|high|Thailand|
-|208.180.237.55|31012|http|low|United States|
-|183.105.51.243|8888|https|medium|Korea, Republic of|
-|185.251.182.27|8085|http|low|United States|
-|1.20.102.102|38816|https|high|Thailand|
-|206.81.2.158|8080|http|low|United States|
-|18.218.121.86|8080|http|medium|United States|
-|103.43.40.8|48200|http|low|India|
-|192.151.156.90|19016|http|low|United States|
-|212.112.113.27|37393|http|low|Kyrgyzstan|
-|142.93.125.0|8080|http|medium|United States|
-|149.202.50.167|3128|https|unknown|France|
-|47.254.85.143|3128|http|low|United States|
-|167.99.67.234|8080|https|medium|Singapore|
-|91.200.166.200|3128|https|high|Russian Federation|
-|52.174.237.51|8080|http|low|Netherlands|
-|216.75.113.182|39602|http|high|United States|
-|192.99.191.237|1080|http|low|United States|
-|5.58.56.142|8080|http|low|Ukraine|
-|3.94.230.156|80|http|high|United States|
-|157.230.13.186|8080|http|medium|United States|
-|213.166.79.125|8085|http|low|United States|
-|95.161.177.249|8081|http|low|Russian Federation|
-|70.183.218.36|55842|http|low|United States|
-|104.236.55.48|8080|https|high|United States|
-|96.74.27.161|32784|http|low|United States|
-|177.69.241.225|3128|http|low|Brazil|
-|171.96.230.233|8888|https|medium|Thailand|
-|115.134.147.196|8080|http|low|Malaysia|
-|165.22.242.235|8080|http|low|United States|
-|5.188.105.9|8081|http|low|Russian Federation|
-|104.236.47.73|8080|https|high|United States|
-|146.82.236.133|43415|https|high|United States|
-|80.211.31.89|8888|http|low|Italy|
-|165.22.249.218|8080|http|medium|Singapore|
-|103.78.12.106|8080|http|low|India|
-|104.221.131.18|3128|http|low|United States|
-|208.255.161.107|3128|http|low|United States|
-|104.152.45.45|80|http|medium|United States|
-|69.9.238.22|8080|http|low|United States|
-|35.185.179.90|3128|http|low|Singapore|
-|12.228.207.66|8181|http|low|United States|
-|223.25.111.4|8181|http|low|Indonesia|
-|138.68.53.44|8118|http|low|United States|
-|195.19.157.195|8080|http|medium|Russian Federation|
-|210.212.69.226|8080|http|low|India|
-|58.96.153.149|8080|http|low|Australia|
-|197.51.115.10|53281|http|low|Egypt|
-|165.22.253.4|8080|http|low|Singapore|
-|186.90.205.30|8089|https|unknown|Venezuela|
-|125.26.58.25|8080|http|low|Thailand|
-|80.99.19.213|8080|http|low|Hungary|
-|103.12.162.109|44387|https|high|Cambodia|
-|52.90.76.213|3128|https|high|United States|
-|14.98.108.34|8080|http|low|India|
-|45.220.58.79|8080|http|low|South Africa|
-|87.103.131.124|45414|http|low|Russian Federation|
-|213.6.76.94|8030|http|low|Palestinian Territory|
-|35.245.181.195|3128|https|high|United States|
-|188.18.7.171|34125|http|low|Russian Federation|
-|134.209.209.76|8080|http|medium|United States|
-|159.89.142.5|8080|http|medium|United States|
-|93.88.216.51|35852|https|high|Russian Federation|
-|213.166.78.239|8085|http|low|United States|
-|31.40.253.204|8085|http|low|United States|
-|91.203.27.139|34874|http|low|Ukraine|
-|50.238.51.150|80|http|medium|United States|
-|5.141.86.236|54752|http|low|Russian Federation|
-|185.82.212.95|8080|https|medium|Czech Republic|
-|202.147.199.210|8080|http|low|Indonesia|
-|172.83.138.45|53281|http|low|United States|
-|154.73.137.157|46669|http|high|South Africa|
-|68.183.49.175|3128|http|low|United States|
-|52.207.220.249|3128|https|high|United States|
-|95.90.165.51|43241|https|high|Germany|
-|118.232.61.28|8998|https|unknown|Taiwan|
-|128.199.150.112|8080|http|low|Singapore|
-|142.93.127.126|3128|http|low|United States|
-|45.70.194.26|8080|http|low|Brazil|
-|111.254.52.132|8998|https|unknown|Taiwan|
-|34.237.98.226|3128|http|medium|United States|
-|176.192.8.206|39422|http|high|Russian Federation|
-|187.188.154.57|9991|http|low|Mexico|
-|188.32.48.236|8081|http|low|Russian Federation|
-|185.62.174.137|57881|http|high|Albania|
-|104.221.129.166|3128|http|low|United States|
-|78.138.171.35|42027|http|low|Russian Federation|
-|131.221.178.220|39338|https|high|Brazil|
-|149.28.120.36|80|https|high|United States|
-|38.124.142.4|8080|http|low|United States|
-|51.77.211.175|3128|http|low|France|
-|104.216.26.176|5594|http|low|United States|
-|49.51.195.24|1080|http|low|United States|
-|185.242.168.118|8080|http|high|Bulgaria|
-|178.128.93.56|3128|https|high|Singapore|
-|101.51.197.113|8080|http|low|Thailand|
-|110.232.81.71|8080|http|low|Indonesia|
-|47.254.83.176|8080|http|medium|United States|
-|78.32.35.22|50912|https|high|United Kingdom|
-|3.14.52.91|3128|http|medium|United States|
-|12.235.145.195|80|http|low|United States|
-|85.208.85.72|8085|http|low|United States|
-|67.205.151.211|3128|http|low|United States|
-|35.236.59.67|3128|http|low|United States|
-|54.148.239.255|3128|http|medium|United States|
-|188.113.182.71|3128|http|low|Russian Federation|
-|188.112.194.222|8080|http|low|Russian Federation|
-|103.90.210.146|443|http|low|Indonesia|
-|47.90.201.155|3128|http|low|United States|
-|35.246.61.3|80|https|high|United States|
-|186.86.247.169|39168|http|high|Colombia|
-|213.193.94.250|3128|http|low|Switzerland|
-|178.134.107.50|80|http|low|Georgia|
-|92.253.208.252|8080|http|high|United Kingdom|
-|144.202.60.154|80|https|high|United States|
-|177.85.79.13|8080|http|low|Brazil|
-|109.94.220.232|8085|http|low|United States|
-|177.70.64.115|61902|http|low|Brazil|
-|177.1.81.114|59501|http|low|Brazil|
-|190.52.34.67|8082|http|low|Argentina|
-|52.192.164.148|3128|https|medium|Japan|
-|45.4.148.65|47086|http|high|Brazil|
-|34.73.131.13|80|http|medium|United States|
-|5.35.107.58|53281|https|high|Russian Federation|
-|98.210.112.233|80|http|high|United States|
-|35.245.212.243|3128|http|low|United States|
-|159.255.167.28|55492|http|low|Iraq|
-|50.224.238.78|8080|http|low|United States|
-|35.245.213.254|3128|https|high|United States|
-|5.160.90.90|3128|https|high|Iran|
-|149.28.241.224|80|http|low|United States|
-|104.216.26.184|5602|http|low|United States|
-|125.162.149.15|8080|http|low|Indonesia|
-|96.126.111.95|3128|https|high|United States|
-|179.153.59.246|8080|http|low|Brazil|
-|195.24.154.3|51749|http|high|Ukraine|
-|23.162.96.83|3128|https|high|United States|
-|45.55.27.161|3128|http|low|United States|
-|180.183.13.210|8080|http|low|Thailand|
-|12.33.254.195|3128|https|unknown|United States|
-|185.129.184.225|8080|http|low|Iran|
-|103.240.241.145|80|https|unknown|Lao People's Democratic Republic|
-|185.110.237.201|8080|http|low|Iran|
-|104.216.26.167|5597|http|low|United States|
-|197.255.152.43|59270|https|high|South Africa|
-|36.67.223.185|8080|http|low|Indonesia|
-|113.53.47.116|8080|http|medium|Thailand|
-|94.244.27.90|8080|http|low|Ukraine|
-|110.77.154.60|8080|http|low|Thailand|
-|190.85.153.142|54743|https|high|Colombia|
-|138.94.160.22|52894|http|high|Brazil|
-|159.65.73.129|80|http|high|United States|
-|51.83.105.113|8080|https|high|France|
-|144.202.60.154|80|https|high|United States|
-|2.87.232.34|53281|http|low|Greece|
-|103.194.192.42|51225|https|high|India|
-|45.115.175.112|48259|http|low|India|
-|177.152.55.58|48346|http|low|Brazil|
-|35.188.131.123|80|http|low|United States|
+|52.144.97.213|8080|http|low|United States|
+|89.31.126.251|80|http|medium|Japan|
+|183.177.98.6|8080|http|low|Mongolia|
+|154.72.63.84|42717|https|high|South Africa|
+|202.169.226.230|8080|http|low|Indonesia|
+|85.207.44.10|53038|http|low|Czech Republic|
+|79.120.209.193|52177|https|high|Hungary|
+|31.149.96.10|38595|http|high|Netherlands|
+|217.182.51.224|8080|https|medium|France|
+|34.73.232.136|80|http|low|United States|
 |104.216.26.163|5581|http|low|United States|
-|216.21.162.200|36716|http|low|United States|
-|45.79.207.155|3128|http|low|United States|
-|46.16.105.213|6666|http|low|Serbia|
-|200.255.220.211|8080|https|unknown|Brazil|
-|5.59.105.17|38199|http|high|Ukraine|
-|187.95.28.188|23500|https|high|Brazil|
-|213.23.122.170|83|http|medium|Germany|
-|173.208.143.34|3128|http|low|United States|
-|186.250.176.154|34023|http|high|Brazil|
-|112.105.196.100|8998|https|medium|Taiwan|
-|35.199.43.172|3128|http|low|United States|
-|69.130.120.228|46439|http|low|United States|
-|189.10.97.147|58586|http|low|Brazil|
-|68.177.71.120|59528|https|high|United States|
-|35.189.138.148|3128|https|medium|Singapore|
-|190.114.247.178|36079|https|high|Venezuela|
-|3.95.253.178|80|http|low|United States|
-|182.53.206.26|45336|https|high|Thailand|
-|124.12.32.76|8080|https|unknown|Taiwan|
-|34.207.68.148|3128|https|high|United States|
-|104.216.26.185|5609|http|low|United States|
-|159.89.142.5|8080|http|medium|United States|
-|182.253.114.66|8080|http|low|Indonesia|
-|195.12.21.130|8080|https|unknown|United Kingdom|
-|104.216.26.187|5605|http|low|United States|
-|36.67.38.135|8080|http|low|Indonesia|
-|52.37.57.154|80|http|medium|United States|
-|23.239.18.176|3128|http|low|United States|
-|183.179.199.232|8080|http|low|Hong Kong|
-|34.73.131.13|80|http|medium|United States|
-|112.78.3.27|8080|https|unknown|Vietnam|
-|185.28.193.95|8080|https|unknown|Czech Republic|
-|42.115.62.26|8080|http|low|Cambodia|
-|61.19.202.99|8080|http|low|Thailand|
-|176.121.48.48|58669|http|low|Russian Federation|
-|69.129.45.226|8080|https|unknown|United States|
-|185.130.144.207|51429|http|low|Spain|
-|74.207.225.58|3128|http|low|United States|
-|37.232.13.78|8080|http|low|Georgia|
-|202.162.203.165|57019|http|high|Indonesia|
-|186.167.50.18|38322|http|low|Venezuela|
-|185.190.40.75|8080|http|medium|Russian Federation|
-|134.209.96.47|3128|http|low|Singapore|
-|91.240.210.81|8080|http|low|Russian Federation|
-|98.221.140.110|80|http|high|United States|
-|74.207.225.58|3128|http|low|United States|
-|46.151.254.200|53281|https|high|Ukraine|
-|185.15.90.82|41720|https|high|Russian Federation|
-|3.93.3.37|3128|https|high|United States|
-|170.80.149.240|8080|http|low|Brazil|
-|207.148.72.45|8080|https|high|Singapore|
-|18.223.15.49|3128|https|high|United States|
-|157.230.41.225|8080|https|medium|Singapore|
-|36.85.16.117|80|http|low|Indonesia|
-|212.155.230.208|8080|https|medium|France|
-|24.227.222.148|53281|http|low|United States|
-|36.92.19.129|8080|http|low|Indonesia|
-|110.77.227.172|8080|http|low|Thailand|
-|195.175.63.230|53281|https|high|Turkey|
-|104.221.131.20|3128|http|low|United States|
-|93.76.211.56|30542|http|high|Ukraine|
-|34.237.98.226|3128|http|medium|United States|
-|200.153.145.174|35897|http|low|Brazil|
-|207.180.253.129|3128|http|low|Germany|
-|50.116.34.251|3128|http|low|United States|
-|52.39.101.98|80|http|high|United States|
-|159.65.131.98|3128|https|high|Singapore|
-|190.52.35.77|8082|http|low|Argentina|
-|18.231.95.69|80|http|low|Brazil|
-|104.63.254.238|3128|http|low|United States|
-|134.209.99.100|8080|http|low|Singapore|
-|132.255.50.76|49229|http|high|Brazil|
-|80.80.160.251|8080|https|medium|Albania|
-|37.26.136.181|46489|https|high|Moldova, Republic of|
-|130.0.25.46|34964|https|high|Albania|
-|18.237.124.160|3128|https|medium|United States|
-|113.163.141.81|8080|https|medium|Vietnam|
-|94.130.20.85|31288|https|medium|Germany|
-|45.32.166.253|8118|http|low|United States|
-|66.228.45.70|3128|https|high|United States|
-|200.255.122.170|8080|https|medium|Brazil|
-|206.189.163.84|80|http|medium|United States|
-|207.244.139.89|46671|http|low|United States|
-|181.14.194.10|8090|http|low|Argentina|
-|117.196.239.26|8080|http|low|India|
-|182.53.197.236|44673|https|high|Thailand|
-|213.5.194.93|45951|http|low|Ukraine|
-|96.87.184.101|43705|http|low|United States|
-|202.91.88.251|36535|https|high|India|
-|52.25.119.60|3128|https|medium|United States|
-|5.58.50.5|8080|http|low|Ukraine|
-|159.253.110.8|36898|https|high|Slovakia|
-|85.109.140.178|54700|http|low|Turkey|
-|54.64.239.229|3128|https|medium|Japan|
-|194.36.173.28|8080|http|low|United States|
-|180.183.101.70|8080|http|low|Thailand|
-|51.83.105.113|8080|https|high|France|
-|36.81.48.84|8080|http|low|Indonesia|
-|138.68.235.72|8080|http|medium|United States|
-|1.10.188.202|8080|http|low|Thailand|
-|104.221.133.57|3128|http|low|United States|
-|54.148.239.255|3128|http|medium|United States|
-|212.155.230.214|8080|https|unknown|France|
-|68.183.63.29|8080|http|low|United States|
-|35.245.243.139|3128|http|low|United States|
-|69.9.238.22|8080|http|low|United States|
-|137.59.161.162|32372|http|high|Indonesia|
-|186.138.166.96|50219|http|low|Argentina|
-|124.120.98.219|3128|http|medium|Thailand|
-|178.62.47.162|3128|https|high|United Kingdom|
-|171.97.197.247|8888|https|unknown|Thailand|
-|157.230.240.140|3128|https|medium|Singapore|
-|42.116.18.172|54444|http|high|Vietnam|
-|180.94.64.114|8080|http|low|Afghanistan|
-|103.207.41.90|3128|http|low|India|
-|139.255.138.74|8080|http|low|Indonesia|
-|101.109.48.62|8080|http|low|Thailand|
-|176.235.80.101|9090|http|low|Turkey|
-|103.197.48.166|8080|http|low|Bangladesh|
-|83.167.203.174|45266|https|high|Netherlands|
-|87.241.206.119|8080|http|low|Russian Federation|
-|35.189.138.148|3128|https|medium|Singapore|
-|104.254.236.167|808|http|low|United States|
-|154.117.155.42|32317|http|high|South Africa|
-|74.208.123.225|3128|http|low|United States|
-|213.166.77.49|8085|http|low|United States|
-|217.76.204.197|8080|https|medium|Ukraine|
-|202.57.62.170|40231|http|low|Philippines|
-|85.209.149.99|8085|http|low|United States|
-|41.60.216.225|8080|http|low|Zambia|
-|45.79.168.131|3128|https|high|United States|
-|200.69.70.238|8080|http|low|Argentina|
-|35.238.13.121|3128|https|medium|United States|
-|66.228.45.70|3128|https|high|United States|
-|104.152.45.46|80|http|medium|United States|
-|35.166.49.204|3128|http|low|United States|
-|23.162.96.83|3128|https|high|United States|
-|195.138.86.164|3128|https|unknown|Ukraine|
-|110.74.199.125|35604|http|high|Cambodia|
-|138.68.40.138|8080|http|medium|United States|
-|24.227.248.226|31784|https|high|United States|
-|46.99.154.188|8089|https|unknown|Albania|
-|45.79.210.23|3128|https|medium|United States|
-|109.194.1.222|8080|http|low|Russian Federation|
-|35.238.13.121|3128|https|medium|United States|
-|157.230.149.189|80|http|medium|United States|
-|5.206.233.106|60867|https|high|Kosovo|
-|212.8.249.110|3128|http|low|Netherlands|
-|178.128.72.132|80|http|medium|United States|
-|180.183.131.120|8213|http|low|Thailand|
-|91.205.131.110|32518|http|high|Russian Federation|
-|188.255.235.18|8888|http|low|Serbia|
-|103.241.204.225|8080|https|high|Indonesia|
-|125.226.224.90|8080|https|unknown|Taiwan|
-|179.125.178.154|8080|https|high|Brazil|
-|203.130.228.60|8080|https|unknown|Indonesia|
-|165.227.62.167|80|http|medium|United States|
-|192.241.170.125|8118|http|low|United States|
-|103.254.185.53|30944|https|high|Nepal|
-|45.79.220.99|3128|http|low|United States|
-|52.37.38.146|80|http|low|United States|
-|104.248.220.143|3128|http|medium|United States|
-|71.125.88.236|80|http|low|United States|
-|103.66.198.210|9000|http|low|Indonesia|
-|142.93.125.0|8080|http|medium|United States|
-|103.245.204.58|35424|https|high|Bangladesh|
-|105.235.201.14|58061|http|low|Nigeria|
-|104.216.26.177|5595|http|low|United States|
-|124.120.124.62|8888|https|unknown|Thailand|
-|103.110.88.152|47907|https|high|Indonesia|
-|52.33.89.246|3128|http|medium|United States|
-|167.250.74.154|3128|http|low|Brazil|
-|3.95.30.209|3128|http|medium|United States|
-|104.32.43.13|53281|http|low|United States|
-|82.114.92.122|49305|http|low|Albania|
-|104.216.26.166|5584|http|low|United States|
-|110.172.172.206|55788|http|high|India|
-|112.215.106.50|8080|http|low|Indonesia|
-|81.29.244.193|40238|http|high|Iran|
-|103.207.41.91|3128|http|low|India|
-|103.10.61.165|8080|http|low|Indonesia|
-|125.230.205.121|8080|https|unknown|Taiwan|
-|77.119.245.150|49368|http|low|Austria|
-|181.129.153.141|9991|http|low|Colombia|
-|190.216.240.3|8080|http|low|Venezuela|
-|185.74.235.222|8080|https|medium|United Kingdom|
-|14.207.213.159|8213|http|medium|Thailand|
-|41.193.22.153|50021|http|high|South Africa|
-|103.111.198.242|8080|http|low|Indonesia|
-|194.78.121.114|3128|https|medium|Belgium|
-|188.187.188.237|63141|http|low|Russian Federation|
-|3.0.161.82|8080|http|low|Singapore|
-|185.7.85.21|80|https|high|Russian Federation|
-|45.79.158.73|3128|https|high|United States|
-|170.239.84.239|3128|http|medium|Chile|
-|213.6.162.6|8080|http|low|Palestinian Territory|
-|82.85.143.172|35462|https|high|Italy|
-|68.183.115.96|3128|http|low|United States|
-|105.112.84.91|8080|http|low|Nigeria|
-|91.227.183.222|34935|http|low|Ukraine|
-|1.32.54.254|8080|https|medium|Malaysia|
-|52.128.63.101|8080|http|low|United States|
-|177.5.246.28|8080|http|medium|Brazil|
-|52.170.94.27|80|http|low|United States|
-|3.213.222.172|8080|http|medium|United States|
-|23.162.96.83|3128|https|high|United States|
-|81.162.243.249|8080|http|low|Ukraine|
-|93.183.242.138|53281|https|high|Ukraine|
-|206.189.163.84|80|http|medium|United States|
-|182.52.30.186|8080|http|medium|Thailand|
-|47.254.23.164|8080|http|low|United States|
-|185.7.85.21|80|https|high|Russian Federation|
-|181.129.50.74|60496|http|low|Colombia|
-|27.147.225.2|56223|http|low|Bangladesh|
-|38.86.51.101|3128|https|high|United States|
-|64.20.35.141|3128|http|low|United States|
-|168.232.167.85|3128|http|medium|Chile|
-|221.126.237.206|8080|https|medium|Hong Kong|
-|195.246.125.130|43258|http|low|Russian Federation|
-|118.179.84.170|8080|http|low|Bangladesh|
-|204.29.115.149|8080|http|low|United States|
-|103.59.178.252|49638|https|high|Bangladesh|
 |167.99.155.123|80|http|medium|United States|
-|41.216.230.148|38319|http|low|Malawi|
-|159.89.83.140|80|http|high|United States|
-|125.25.45.92|8080|http|medium|Thailand|
-|194.58.182.73|41258|http|low|Russian Federation|
-|139.255.123.90|55696|http|low|Indonesia|
-|45.5.94.161|56299|https|high|Mexico|
-|190.121.129.69|8181|http|medium|Colombia|
-|31.220.63.167|80|http|high|United States|
-|104.245.69.17|3128|http|low|United States|
-|46.164.246.97|8081|http|low|Russian Federation|
-|217.27.41.138|59530|http|high|Russian Federation|
-|50.235.28.146|3128|http|low|United States|
-|109.236.52.63|8085|http|low|United States|
-|45.79.211.116|3128|http|low|United States|
-|35.238.13.121|3128|https|medium|United States|
-|13.68.221.22|8888|https|medium|United States|
-|185.186.70.16|41258|http|low|Italy|
-|50.238.51.150|80|http|medium|United States|
-|47.90.254.156|3128|http|low|United States|
-|35.245.208.185|3128|http|low|United States|
-|3.209.42.10|3128|http|medium|United States|
-|201.62.125.229|8080|http|low|Brazil|
-|46.250.26.14|53281|https|high|Ukraine|
-|88.135.85.204|41258|http|high|Ukraine|
-|201.55.46.6|80|https|unknown|Brazil|
+|103.216.51.44|38900|https|high|Cambodia|
+|47.90.73.118|3128|http|low|Hong Kong|
+|189.5.252.125|3128|https|high|Brazil|
+|104.32.43.13|53281|http|low|United States|
+|103.242.15.86|42862|https|high|Cambodia|
+|59.120.18.103|55006|http|low|Taiwan|
+|184.185.166.27|8080|http|low|United States|
+|74.207.225.58|3128|http|low|United States|
+|35.247.219.104|80|http|medium|United States|
+|93.170.4.145|48812|https|high|Ukraine|
+|181.16.193.6|8080|http|low|Argentina|
+|199.27.95.186|32463|http|high|United States|
+|38.86.51.101|3128|https|high|United States|
+|163.53.209.8|6666|http|low|India|
+|213.166.77.49|8085|http|low|United States|
+|35.245.95.253|3128|http|low|United States|
+|175.136.205.137|8080|https|unknown|Malaysia|
+|185.28.193.95|8080|https|unknown|Czech Republic|
+|45.79.168.131|3128|https|high|United States|
+|201.54.31.77|55282|https|high|Brazil|
+|47.90.211.40|3128|https|high|United States|
+|178.217.216.184|49086|https|high|Poland|
+|81.162.195.215|57449|http|high|Czech Republic|
+|117.211.166.214|3128|http|low|India|
+|84.52.110.36|38674|http|high|Russian Federation|
+|149.28.120.36|80|https|high|United States|
+|111.254.52.132|8998|https|unknown|Taiwan|
+|165.22.138.134|8118|https|medium|United States|
+|161.117.86.98|3128|https|medium|Singapore|
+|91.185.237.65|3128|https|high|Russian Federation|
+|188.187.62.173|8080|http|low|Russian Federation|
+|49.128.170.110|56752|https|high|India|
+|159.203.118.239|8080|http|low|United States|
+|5.249.145.41|3128|https|high|Italy|
+|138.219.228.174|8080|http|medium|Chile|
+|177.184.83.218|8080|http|low|Brazil|
+|195.69.221.198|38701|https|high|Ukraine|
+|68.183.53.127|8080|http|low|United States|
+|24.227.222.180|53281|http|low|United States|
+|89.38.96.199|3128|http|low|Netherlands|
+|3.93.3.37|3128|https|high|United States|
+|200.58.84.165|33156|http|low|Bolivia|
+|34.214.157.74|8080|http|high|United States|
+|88.204.75.3|8080|http|medium|Russian Federation|
+|203.174.10.54|37612|https|high|Indonesia|
+|146.120.196.25|8080|http|low|Russian Federation|
+|187.111.192.146|44737|https|high|Brazil|
+|176.108.32.30|37981|https|high|Serbia|
+|159.203.116.196|3128|http|medium|United States|
+|104.42.155.88|80|http|high|United States|
+|178.128.72.132|80|http|medium|United States|
+|104.216.26.177|5595|http|low|United States|
+|43.225.192.241|50878|https|high|India|
+|110.74.199.68|48611|https|high|Cambodia|
+|85.47.31.179|3128|http|medium|Italy|
+|5.141.81.65|61853|http|low|Russian Federation|
+|36.90.61.50|8080|https|high|Indonesia|
+|212.90.168.150|52589|https|high|Ukraine|
+|179.124.137.189|8080|http|low|Brazil|
+|125.230.205.121|8080|https|unknown|Taiwan|
+|180.180.75.218|8080|http|low|Thailand|
+|192.241.170.125|8118|http|low|United States|
+|104.216.26.171|5593|http|low|United States|
+|185.132.228.102|8080|https|high|Italy|
+|167.99.67.234|8080|https|medium|Singapore|
+|85.198.133.19|43157|https|high|Ukraine|
+|201.182.223.16|37492|http|high|Brazil|
+|35.197.209.78|3128|http|high|Unknown|
+|195.9.17.5|30266|https|high|Russian Federation|
+|35.236.59.67|3128|http|low|United States|
+|36.72.223.185|8080|https|high|Indonesia|
+|201.90.36.194|3128|http|low|Brazil|
+|159.203.116.196|3128|http|medium|United States|
+|216.105.64.186|8080|https|unknown|United States|
+|36.72.223.185|8080|https|high|Indonesia|
+|93.171.242.39|54051|https|high|Ukraine|
+|110.78.178.104|8080|http|low|Thailand|
+|103.241.227.98|6666|http|low|India|
+|27.131.7.162|53281|http|high|Indonesia|
+|80.51.100.10|41358|https|high|Poland|
+|88.255.101.249|8080|http|low|Turkey|
+|104.221.132.122|3128|http|low|United States|
+|87.226.195.36|8080|http|medium|Russian Federation|
+|182.23.7.227|8080|http|low|Indonesia|
+|70.169.150.235|48678|http|low|United States|
+|138.68.40.138|8080|http|medium|United States|
+|195.122.23.24|50179|http|high|Latvia|
 |125.212.217.215|80|https|medium|Vietnam|
-|95.88.164.152|3128|https|medium|Germany|
-|24.227.248.226|31784|https|high|United States|
+|134.209.170.59|3128|http|low|United States|
+|163.153.214.50|8080|http|low|United States|
+|175.106.17.98|80|https|high|Indonesia|
+|23.162.96.83|3128|https|high|United States|
+|97.73.172.126|87|http|low|United States|
+|176.9.25.84|80|https|medium|Germany|
+|50.193.9.202|41093|https|high|United States|
+|173.82.104.35|8080|http|low|United States|
+|195.158.109.248|45678|https|high|Malta|
+|206.189.163.84|80|http|medium|United States|
+|191.252.185.71|80|http|medium|Brazil|
+|179.222.68.140|8080|http|low|Brazil|
+|13.68.221.22|8888|https|medium|United States|
+|104.221.129.166|3128|http|low|United States|
+|206.81.2.158|8080|http|low|United States|
+|27.147.217.154|43252|http|high|Bangladesh|
+|103.221.254.102|30069|https|high|Bangladesh|
+|201.150.109.36|38819|http|high|Brazil|
+|124.120.98.219|3128|http|medium|Thailand|
+|104.152.45.45|80|http|medium|United States|
+|3.213.222.172|8080|http|medium|United States|
+|3.94.230.156|80|http|high|United States|
+|82.207.41.135|47395|https|high|Ukraine|
+|103.206.254.170|65103|https|high|Indonesia|
+|36.37.124.226|36179|http|low|Indonesia|
+|47.254.85.143|3128|http|low|United States|
+|190.217.113.119|34079|http|low|Colombia|
+|88.82.73.242|47118|http|high|Russian Federation|
+|54.64.239.229|3128|https|medium|Japan|
+|34.237.98.226|3128|http|medium|United States|
+|49.51.195.24|1080|http|low|United States|
+|1.20.96.248|41120|https|high|Thailand|
+|12.33.254.195|3128|https|unknown|United States|
+|45.55.58.184|8080|http|low|United States|
+|220.247.174.13|61187|http|low|Indonesia|
+|151.237.135.216|51720|http|high|Spain|
+|52.37.57.154|80|http|medium|United States|
+|183.88.131.236|8080|http|low|Thailand|
+|104.152.45.45|80|http|medium|United States|
+|67.205.151.211|3128|http|low|United States|
+|113.163.141.81|8080|https|medium|Vietnam|
+|162.248.247.153|32592|https|high|United States|
+|91.203.115.11|44107|http|low|Ukraine|
+|88.135.85.204|41258|http|high|Ukraine|
+|202.79.46.36|51197|https|high|Nepal|
+|103.225.95.253|43370|http|low|Bangladesh|
+|87.247.19.126|55254|http|high|Kazakhstan|
+|200.33.143.75|49346|http|high|Mexico|
+|35.244.37.83|3128|http|low|United States|
+|190.61.40.166|53281|http|low|Colombia|
+|176.237.133.171|8080|http|low|Turkey|
+|159.65.131.98|3128|https|high|Singapore|
 |104.216.26.186|5604|http|low|United States|
-|82.147.120.8|50007|http|low|Russian Federation|
-|177.159.209.53|8080|http|low|Brazil|
-|212.231.221.55|8080|http|low|Spain|
-|193.37.192.243|8080|http|low|Ukraine|
-|95.0.226.84|48556|https|high|Turkey|
-|1.2.169.8|49371|https|high|Thailand|
+|154.127.36.134|8080|http|low|Benin|
+|187.111.160.8|42579|https|high|Brazil|
+|45.71.151.39|39915|https|high|Brazil|
+|165.22.242.235|8080|http|low|United States|
+|72.38.188.134|51348|https|high|Canada|
+|131.108.63.133|53807|http|high|Brazil|
+|146.82.236.133|43415|https|high|United States|
+|203.223.143.51|8080|https|unknown|Malaysia|
+|203.130.228.60|8080|https|unknown|Indonesia|
+|84.232.111.251|21776|http|high|Spain|
+|209.80.12.170|80|http|low|United States|
+|97.73.15.30|87|http|low|United States|
+|5.199.232.30|53281|http|high|Ukraine|
+|83.169.244.38|8080|http|medium|Russian Federation|
+|165.227.77.241|3128|http|low|United States|
+|186.159.3.49|41589|https|high|Colombia|
+|173.161.0.227|80|https|unknown|United States|
+|103.3.77.94|52807|http|high|Indonesia|
+|107.190.148.202|41797|https|medium|United States|
+|38.127.88.11|1337|http|low|United States|
+|190.90.1.203|52217|https|high|Colombia|
+|47.254.23.164|8080|http|high|United States|
+|103.229.85.54|8080|http|low|Bangladesh|
+|204.29.115.149|8080|http|low|United States|
+|107.190.148.202|41797|https|medium|United States|
+|157.230.176.187|8080|http|medium|United States|
+|43.227.131.1|83|http|low|India|
+|61.118.35.94|55725|https|high|Japan|
+|124.120.100.163|3128|http|medium|Thailand|
+|124.41.211.211|32070|http|high|Nepal|
+|205.202.42.230|8083|http|low|United States|
+|103.78.97.69|8080|http|low|Indonesia|
+|202.40.186.94|45241|http|low|Bangladesh|
+|66.96.193.206|8080|https|high|Singapore|
+|165.22.253.195|3128|https|high|Singapore|
+|125.26.109.129|37625|http|low|Thailand|
+|103.104.109.112|8080|http|low|India|
+|178.124.150.126|81|https|medium|Belarus|
+|38.106.33.29|3128|http|low|United States|
+|172.83.138.45|53281|http|low|United States|
+|202.166.211.48|39655|https|high|Nepal|
+|119.160.183.246|8118|https|medium|Brunei Darussalam|
+|210.48.204.134|48588|http|high|Malaysia|
+|98.172.142.99|8080|https|high|United States|
+|190.143.216.211|8080|http|low|Guatemala|
+|217.182.51.225|8080|https|high|France|
+|91.225.226.39|31716|http|low|Ukraine|
+|94.75.76.10|8080|http|low|Poland|
+|78.128.77.171|8080|http|low|Bulgaria|
+|98.221.140.110|80|http|high|United States|
+|207.148.72.45|8080|https|high|Singapore|
+|103.57.192.138|53281|http|low|Indonesia|
+|167.249.249.110|41302|https|high|Brazil|
+|37.59.32.112|8080|http|low|France|
+|170.82.93.35|8080|http|low|Brazil|
+|154.73.109.84|53281|http|low|Libya|
+|64.20.35.141|3128|http|low|United States|
+|50.239.245.109|80|http|low|United States|
+|74.208.123.225|3128|http|low|United States|
+|35.245.208.185|3128|http|low|United States|
+|134.119.205.252|8080|http|low|France|
+|50.252.127.53|53304|http|low|United States|
+|108.59.10.129|55555|https|medium|United States|
+|35.189.138.148|3128|https|medium|Singapore|
+|45.175.181.38|8080|http|low|Brazil|
+|50.235.28.146|3128|http|low|United States|
+|187.17.48.82|56321|http|low|Brazil|
+|188.26.3.152|44905|http|low|Romania|
+|112.105.196.100|8998|https|medium|Taiwan|
+|186.159.3.49|41589|https|high|Colombia|
+|104.236.248.219|3128|http|low|United States|
+|165.138.225.250|8080|http|low|United States|
+|87.226.213.120|8080|http|medium|Russian Federation|
+|190.82.119.85|8080|http|low|Chile|
+|80.51.100.10|41358|https|high|Poland|
+|142.93.125.0|8080|http|medium|United States|
+|12.8.246.57|41845|https|high|United States|
+|35.238.13.121|3128|https|medium|United States|
+|54.148.239.255|3128|https|medium|United States|
+|52.43.166.197|3128|http|medium|United States|
+|149.248.33.121|80|http|high|United States|
+|118.175.220.30|8089|https|medium|Thailand|
+|196.200.27.142|8080|http|low|Kenya|
+|177.184.139.81|60490|https|high|Brazil|
+|154.117.146.139|44120|http|high|South Africa|
+|207.244.139.89|46671|http|low|United States|
+|217.73.133.102|39102|https|high|Albania|
+|78.187.93.146|31779|http|high|Turkey|
+|45.63.62.87|8080|http|low|United States|
+|210.96.153.20|3128|https|unknown|Korea, Republic of|
+|103.231.163.58|51458|https|high|Bangladesh|
+|189.5.252.125|3128|https|high|Brazil|
+|138.68.53.44|8118|http|low|United States|
+|109.121.163.75|53282|http|high|Macedonia|
+|95.31.5.29|54651|http|low|Russian Federation|
+|177.11.116.113|8080|http|low|Brazil|
+|93.93.61.93|53281|https|high|Lithuania|
+|89.237.29.198|8080|http|low|Russian Federation|
+|183.105.51.243|8888|https|medium|Korea, Republic of|
+|162.220.166.107|3128|http|medium|United States|
+|125.226.224.90|8080|https|unknown|Taiwan|
+|207.254.55.87|80|http|high|United States|
+|50.116.35.183|3128|http|low|United States|
+|201.86.99.130|39900|http|high|Brazil|
+|23.239.18.176|3128|http|low|United States|
+|80.80.160.252|8080|https|unknown|Albania|
+|95.84.128.25|33765|http|low|Russian Federation|
+|31.220.63.167|80|http|high|United States|
+|138.0.89.142|54424|http|high|Colombia|
+|52.144.97.213|8080|http|low|United States|
+|50.84.27.59|8080|http|low|United States|
+|73.55.76.54|8080|https|high|United States|
+|188.95.77.2|46509|http|low|Italy|
+|180.183.64.97|8080|http|low|Thailand|
+|161.117.86.98|3128|https|medium|Singapore|
+|205.202.42.230|8083|http|low|United States|
+|134.209.166.42|8080|http|low|United States|
+|103.240.241.145|80|https|unknown|Lao People's Democratic Republic|
+|3.209.42.10|3128|http|medium|United States|
+|194.36.173.28|8080|http|low|United States|
+|103.235.199.72|40379|http|high|Nepal|
+|213.163.122.195|8080|http|low|Albania|
+|144.202.60.154|80|https|high|United States|
+|190.90.1.203|52217|https|high|Colombia|
+|217.79.152.248|8080|http|low|Poland|
+|144.217.22.142|8080|http|low|Canada|
+|82.99.203.76|40487|http|low|Iran|
+|3.213.81.24|3128|http|low|United States|
+|94.179.135.230|57866|https|high|Ukraine|
+|116.202.43.228|3128|http|low|Germany|
+|113.53.29.218|53873|http|low|Thailand|
+|70.183.218.36|55842|http|low|United States|
+|168.228.222.140|55513|http|low|Brazil|
+|52.192.164.148|3128|https|medium|Japan|
+|162.243.102.207|3128|http|low|United States|
+|66.96.193.206|8080|https|high|Singapore|
+|154.117.146.138|34665|http|high|South Africa|
+|118.173.232.5|34413|http|low|Thailand|
+|38.124.142.4|8080|http|low|United States|
+|68.183.115.96|3128|http|low|United States|
+|186.236.237.243|39375|https|high|Brazil|
+|202.79.46.36|51197|https|high|Nepal|
+|165.138.225.250|8080|http|low|United States|
+|79.106.224.142|8080|http|low|Albania|
+|3.209.42.10|3128|http|medium|United States|
+|134.119.214.199|8080|http|low|France|
+|51.83.105.113|8080|https|high|France|
+|194.78.121.114|3128|https|medium|Belgium|
+|217.73.133.102|39102|https|high|Albania|
+|94.230.158.1|43255|http|high|Czech Republic|
+|176.60.208.30|44528|http|low|Belarus|
+|104.216.26.167|5597|http|low|United States|
+|194.67.37.90|3128|https|high|Russian Federation|
+|191.6.228.6|53281|http|high|Brazil|
+|96.9.222.91|80|http|low|United States|
+|23.237.22.82|3128|http|low|United States|
+|195.158.109.248|45678|https|high|Malta|
+|206.189.95.220|80|http|medium|Singapore|
+|35.247.219.104|80|http|medium|United States|
+|188.75.138.234|61584|http|low|Czech Republic|
+|79.120.209.193|52177|https|high|Hungary|
+|217.17.98.93|45838|https|high|Serbia|
+|62.152.43.152|8080|http|low|Russian Federation|
+|156.239.15.61|6604|http|low|United States|
+|3.95.30.209|3128|http|medium|United States|
+|103.242.15.86|42862|https|high|Cambodia|
+|109.167.113.9|51379|https|high|Spain|
+|189.84.121.202|46917|https|high|Brazil|
+|47.219.239.55|8080|http|low|United States|
+|159.65.73.129|80|http|high|United States|
+|1.20.96.248|41120|https|high|Thailand|
+|185.132.178.209|8080|http|high|Netherlands|
+|154.73.137.157|46669|https|high|South Africa|
+|199.27.95.186|32463|http|high|United States|
+|157.230.149.189|80|http|medium|United States|
+|149.28.120.36|80|https|high|United States|
+|203.154.83.72|8080|http|low|Thailand|
+|69.129.45.226|8080|https|unknown|United States|
+|109.86.225.33|41336|http|low|Ukraine|
+|191.36.153.228|49305|http|low|Brazil|
+|1.20.96.111|45555|http|low|Thailand|
+|103.46.233.23|83|http|low|India|
+|104.216.26.176|5594|http|low|United States|
+|50.238.51.150|80|http|medium|United States|
+|195.69.221.198|38701|https|high|Ukraine|
+|177.137.192.46|80|http|low|Brazil|
+|202.150.139.46|36792|https|high|Indonesia|
+|52.90.76.213|3128|https|high|United States|
+|35.221.59.43|3128|https|high|United States|
+|103.221.254.102|30069|https|high|Bangladesh|
+|103.35.173.82|443|http|low|Hong Kong|
+|118.172.201.145|36261|https|high|Thailand|
+|154.126.79.14|8080|http|low|Madagascar|
+|104.248.220.143|3128|http|medium|United States|
+|199.21.106.185|47107|http|low|United States|
+|18.218.144.85|8080|http|low|United States|
+|85.198.133.19|43157|https|high|Ukraine|
+|96.126.111.95|3128|https|high|United States|
+|221.126.237.206|8080|https|medium|Hong Kong|
+|110.74.199.68|48611|https|high|Cambodia|
+|36.90.61.50|8080|https|high|Indonesia|
+|142.93.125.0|8080|http|medium|United States|
+|34.92.4.225|80|http|low|United States|
+|95.88.164.152|3128|https|medium|Germany|
+|143.255.142.80|8080|http|low|Paraguay|
+|1.10.187.89|37221|https|high|Thailand|
+|35.221.217.91|3128|http|low|United States|
+|200.115.48.21|30758|http|low|Argentina|
+|134.209.209.76|8080|http|medium|United States|
+|46.52.153.74|49456|https|high|Russian Federation|
+|217.21.124.72|80|http|low|Kenya|
+|88.157.149.250|8080|https|medium|Portugal|
+|3.95.30.209|3128|http|medium|United States|
+|192.99.191.232|1080|http|low|United States|
+|154.72.95.242|63141|https|high|Tanzania|
+|34.73.131.13|80|http|medium|United States|
+|208.255.161.107|3128|http|low|United States|
+|66.70.191.219|3128|https|high|Canada|
+|109.167.113.9|51379|https|high|Spain|
+|189.84.121.202|46917|https|high|Brazil|
+|18.207.228.230|3128|https|high|United States|
+|97.73.21.6|87|http|low|United States|
+|217.182.51.224|8080|https|medium|France|
+|202.57.35.74|52557|http|low|Philippines|
+|47.90.211.40|3128|https|high|United States|
+|91.192.4.29|8080|http|high|Iraq|
+|52.124.6.146|40834|https|high|United States|
+|52.33.89.246|3128|http|medium|United States|
+|175.184.249.106|41959|https|high|Indonesia|
+|34.207.68.148|3128|https|high|United States|
+|187.111.160.8|42579|https|high|Brazil|
+|124.41.213.201|30146|https|high|Nepal|
+|124.12.32.76|8080|https|unknown|Taiwan|
+|51.83.105.113|8080|https|high|France|
+|159.65.236.197|80|http|low|United States|
+|216.21.162.200|36716|http|low|United States|
+|94.28.86.132|8080|http|low|Russian Federation|
+|168.232.167.85|3128|http|medium|Chile|
+|46.151.60.99|55315|https|high|Slovakia|
+|157.230.56.149|3128|http|low|United States|
+|165.22.249.218|8080|http|medium|Singapore|
+|190.252.225.93|8080|http|low|Colombia|
+|118.97.201.203|8080|http|low|Indonesia|
+|54.82.76.8|80|http|low|United States|
+|82.207.41.135|47395|https|high|Ukraine|
+|185.132.178.210|8080|http|high|Netherlands|
+|104.221.131.20|3128|http|low|United States|
+|77.39.7.153|38264|http|high|Russian Federation|
+|170.239.84.239|3128|http|medium|Chile|
+|200.68.27.100|3128|https|unknown|Chile|
+|124.41.213.201|30146|https|high|Nepal|
+|171.96.230.233|8888|https|medium|Thailand|
+|23.162.96.83|3128|https|high|United States|
+|185.82.98.54|53281|http|low|Lebanon|
+|101.255.64.197|36588|http|low|Indonesia|
+|178.128.72.132|80|http|medium|United States|
+|46.99.154.188|8089|https|unknown|Albania|
+|110.235.194.129|8080|http|low|India|
+|50.116.34.251|3128|http|low|United States|
+|180.183.53.54|8080|http|low|Thailand|
+|178.217.216.184|49086|https|high|Poland|
+|186.4.137.53|53281|http|low|Ecuador|
+|149.202.50.167|3128|https|unknown|France|
+|104.216.26.170|5594|http|low|United States|
+|103.208.152.37|57500|http|high|India|
+|138.59.148.61|8080|http|low|Brazil|
+|98.210.112.233|80|http|high|United States|
+|138.68.235.72|8080|http|medium|United States|
+|104.236.47.73|8080|https|high|United States|
+|68.183.63.29|8080|http|low|United States|
+|173.208.143.34|3128|http|low|United States|
+|132.255.50.76|49229|https|high|Brazil|
+|45.112.20.57|83|http|low|India|
+|203.174.10.54|37612|https|high|Indonesia|
+|73.170.69.211|443|http|high|United States|
+|103.62.144.152|30648|http|low|Bangladesh|
+|165.22.242.233|8080|http|low|United States|
+|35.238.13.121|3128|https|medium|United States|
+|78.153.120.26|41412|https|high|Hungary|
+|192.99.191.238|1080|http|low|United States|
+|103.47.164.18|63141|http|low|India|
+|36.90.35.222|8080|http|low|Indonesia|
+|159.89.128.64|3128|https|high|United States|
+|181.119.69.26|32889|http|low|Argentina|
+|35.182.94.43|3128|http|medium|Canada|
+|95.66.142.18|60719|http|low|Russian Federation|
+|35.189.138.148|3128|https|medium|Singapore|
+|190.85.70.110|30102|http|low|Colombia|
+|94.153.194.14|41258|http|high|Ukraine|
+|182.52.30.186|8080|http|medium|Thailand|
+|54.148.239.255|3128|https|medium|United States|
+|201.55.46.6|80|https|unknown|Brazil|
+|45.115.175.137|48756|http|high|India|
+|200.24.84.4|39136|https|high|Brazil|
+|103.230.155.35|3128|http|low|India|
+|76.185.16.94|54079|http|low|United States|
+|104.221.131.25|3128|http|low|United States|
+|66.70.191.219|3128|https|high|Canada|
+|47.254.23.164|8080|http|high|United States|
+|205.201.36.227|53281|http|low|United States|
+|104.248.112.25|8080|http|low|United States|
+|43.245.202.120|47078|https|high|Cambodia|
+|3.14.52.91|3128|http|medium|United States|
+|80.80.160.251|8080|https|medium|Albania|
+|185.132.133.196|8080|http|low|Netherlands|
+|115.127.92.234|41258|http|low|Bangladesh|
+|216.75.113.182|39602|http|high|United States|
+|52.39.101.98|80|http|high|United States|
+|72.38.188.134|51348|https|high|Canada|
+|104.221.132.122|3128|http|low|United States|
+|73.216.132.208|44428|http|low|United States|
+|50.238.51.150|80|http|medium|United States|
+|201.54.31.77|55282|https|high|Brazil|
+|160.202.130.22|53281|http|low|Bangladesh|
+|165.22.242.233|8080|http|low|United States|
+|194.78.121.114|3128|https|medium|Belgium|
+|95.88.164.152|3128|https|medium|Germany|
+|66.228.45.70|3128|https|high|United States|
+|103.78.213.197|8080|http|low|Indonesia|
+|35.246.195.132|80|http|low|United States|
+|162.220.166.107|3128|http|medium|United States|
+|69.9.238.22|8080|http|low|United States|
+|189.206.166.12|60002|http|high|Mexico|
+|35.221.190.9|3128|http|low|United States|
+|36.77.60.62|8080|http|low|Indonesia|
+|155.138.234.101|8080|http|low|United States|
+|202.124.37.94|48164|https|high|Cambodia|
+|144.202.60.154|80|https|high|United States|
+|149.28.241.224|80|http|low|United States|
+|189.51.98.118|48704|http|high|Brazil|
+|208.180.237.55|31012|http|high|United States|
+|179.184.161.209|8080|http|low|Brazil|
+|52.43.166.197|3128|http|medium|United States|
+|3.14.52.91|3128|http|medium|United States|
+|125.26.7.115|30012|https|high|Thailand|
+|197.248.184.158|53281|http|low|Kenya|
+|104.152.45.46|80|http|medium|United States|
+|45.79.158.73|3128|https|high|United States|
+|104.245.69.17|3128|http|low|United States|
+|165.227.62.167|80|http|medium|United States|
+|35.245.181.195|3128|https|high|United States|
+|109.197.190.34|53281|https|high|Poland|
+|212.90.168.150|52589|https|high|Ukraine|
+|36.91.212.199|8080|http|low|Indonesia|
+|103.75.27.138|48277|http|high|Indonesia|
+|97.72.128.134|87|http|low|United States|
+|157.230.41.225|8080|https|medium|Singapore|
+|46.151.60.99|55315|https|high|Slovakia|
+|50.193.9.202|41093|https|high|United States|
+|154.72.63.84|42717|https|high|South Africa|
+|152.231.25.58|9991|http|low|Colombia|
+|45.79.220.99|3128|http|low|United States|
+|217.17.98.93|45838|https|high|Serbia|
+|52.1.195.166|80|http|low|United States|
+|104.63.254.238|3128|http|low|United States|
+|111.240.244.154|8998|https|medium|Taiwan|
+|144.202.60.154|80|https|high|United States|
+|24.227.248.226|31784|https|high|United States|
+|80.179.157.80|80|http|low|Israel|
+|194.67.37.90|3128|https|high|Russian Federation|
+|182.253.153.0|8080|http|low|Indonesia|
+|138.68.235.72|8080|http|medium|United States|
+|198.71.161.160|80|http|low|United States|
+|112.78.3.27|8080|https|unknown|Vietnam|
+|200.38.19.235|80|http|low|Mexico|
+|54.148.239.255|3128|https|medium|United States|
+|36.67.29.209|8080|http|low|Indonesia|
+|115.77.191.180|53281|http|high|Vietnam|
+|149.28.120.36|80|https|high|United States|
+|82.99.213.36|80|https|unknown|Iran, Islamic Republic of|
+|207.148.72.45|8080|https|high|Singapore|
+|35.238.13.121|3128|https|medium|United States|
+|52.37.38.146|80|http|low|United States|
+|97.73.13.126|87|http|low|United States|
+|35.166.49.204|3128|http|low|United States|
+|118.232.61.28|8998|https|unknown|Taiwan|
+|109.197.190.34|53281|https|high|Poland|
+|35.244.37.83|3128|http|low|United States|
+|186.90.205.30|8089|https|unknown|Venezuela|
+|163.172.100.3|8123|https|high|France|
+|157.230.13.186|8080|http|medium|United States|
+|167.114.79.139|35869|http|high|Canada|
+|169.159.190.25|53281|http|high|South Africa|
+|42.115.88.12|48314|http|low|Cambodia|
+|159.89.83.140|80|http|high|United States|
+|118.173.232.160|39079|https|high|Thailand|
+|50.224.238.78|8080|http|low|United States|
+|103.216.51.44|38900|https|high|Cambodia|
+|189.90.244.46|8080|http|low|Brazil|
+|138.0.89.186|42833|http|low|Colombia|
+|202.74.243.214|31601|http|low|Bangladesh|
+|117.254.218.0|8080|http|low|India|
+|98.172.142.99|8080|https|high|United States|
+|104.254.236.167|808|http|low|United States|
+|202.54.169.235|8080|http|low|India|
+|212.155.230.214|8080|https|unknown|France|
+|157.230.13.186|8080|http|medium|United States|
+|212.155.230.208|8080|https|medium|France|
+|202.154.186.106|8080|http|low|Indonesia|
+|186.148.168.94|33019|https|high|Colombia|
+|157.230.41.225|8080|https|medium|Singapore|
+|159.89.142.5|8080|http|medium|United States|
+|176.192.8.206|39422|https|high|Russian Federation|
+|45.55.157.204|80|http|low|United States|
+|195.9.17.5|30266|https|high|Russian Federation|
+|103.235.199.38|56975|http|high|Nepal|
+|205.201.36.227|53281|http|low|United States|
+|95.46.225.63|45017|https|high|Russian Federation|
+|65.152.119.226|40168|http|low|United States|
+|186.148.168.94|33019|https|high|Colombia|
+|154.72.79.37|23500|http|high|Tanzania|
+|159.89.142.5|8080|http|medium|United States|
+|12.228.207.66|8181|http|low|United States|
+|69.10.52.33|8080|http|low|United States|
+|52.37.57.154|80|http|medium|United States|
+|202.142.147.92|8080|http|low|Pakistan|
+|182.52.51.4|30829|https|high|Thailand|
+|104.216.26.181|5599|http|low|United States|
+|103.115.100.246|50875|http|high|Bangladesh|
+|13.250.71.149|3128|http|medium|Singapore|
+|82.131.194.221|33577|http|high|Hungary|
+|120.50.14.82|8080|http|low|Bangladesh|
+|69.10.47.1|8080|http|low|United States|
+|103.46.233.17|83|http|low|India|
+|121.33.226.167|3128|https|medium|China|
+|187.189.75.124|53281|https|high|Mexico|
+|103.114.10.18|8080|http|low|Bangladesh|
+|118.173.233.148|8080|http|low|Thailand|
+|52.207.220.249|3128|https|high|United States|
+|52.128.63.101|8080|http|low|United States|
+|171.97.197.247|8888|https|unknown|Thailand|
+|195.34.242.74|30852|http|high|Russian Federation|
+|46.52.219.10|8080|http|medium|Russian Federation|
+|23.254.225.108|3128|http|low|United States|
+|157.230.149.189|80|http|medium|United States|
+|175.112.9.119|80|http|low|Korea|
+|124.120.124.62|8888|https|unknown|Thailand|
+|35.245.213.254|3128|https|high|United States|
+|104.216.26.168|5586|http|low|United States|
+|165.22.253.195|3128|https|high|Singapore|
+|175.106.17.98|80|https|high|Indonesia|
+|52.203.205.63|80|http|high|United States|
+|203.202.243.71|47337|http|high|Bangladesh|
+|217.76.204.197|8080|https|medium|Ukraine|
+|182.52.51.4|30829|https|high|Thailand|
+|12.235.145.195|80|http|low|United States|
+|50.239.245.103|80|http|medium|United States|
+|78.153.120.26|41412|https|high|Hungary|
+|125.26.7.115|30012|https|high|Thailand|
+|154.72.95.242|63141|https|high|Tanzania|
+|18.207.228.230|3128|https|high|United States|
+|117.212.95.144|8080|http|low|India|
+|34.237.98.226|3128|http|medium|United States|
+|104.152.45.46|80|http|medium|United States|
+|34.73.131.13|80|http|medium|United States|
+|206.189.163.84|80|http|medium|United States|
+|104.221.133.57|3128|http|low|United States|
+|186.225.182.52|51980|http|low|Brazil|
+|103.105.109.223|84|http|low|India|
+|35.167.149.29|3128|http|medium|United States|
+|45.113.238.178|23500|https|high|Bangladesh|
+|190.145.148.34|47207|https|high|Colombia|
+|167.99.67.234|8080|https|medium|Singapore|
+|163.172.109.132|65420|http|high|France|
+|84.52.84.157|44331|http|low|Russian Federation|
+|163.153.214.50|8080|http|low|United States|
+|47.189.83.192|53281|http|low|United States|
+|208.180.237.55|31012|http|high|United States|
+|203.190.43.110|40296|http|high|Indonesia|
+|104.236.55.48|8080|https|high|United States|
+|96.87.184.101|43705|http|low|United States|
+|91.207.27.142|4550|http|high|Ukraine|
+|167.99.155.123|80|http|medium|United States|
+|105.235.201.66|32720|http|low|Nigeria|
+|3.213.222.172|8080|http|medium|United States|
+|98.172.142.99|8080|https|high|United States|
+|18.207.228.230|3128|https|high|United States|
+|96.74.27.161|32784|http|low|United States|
+|195.12.21.130|8080|https|unknown|United Kingdom|
+|195.138.86.164|3128|https|unknown|Ukraine|
+|160.202.131.10|8081|http|low|Bangladesh|
+|93.93.61.93|53281|https|high|Lithuania|
+|159.65.131.98|3128|https|high|Singapore|
+|41.194.224.13|8080|http|low|South Africa|
+|177.55.188.162|8080|http|low|Brazil|
+|134.209.209.76|8080|http|medium|United States|
+|97.72.158.226|87|http|low|United States|
+|45.55.27.161|3128|http|low|United States|
+|89.250.17.209|8080|http|low|Russian Federation|
+|23.162.96.83|3128|https|high|United States|
+|209.155.147.13|8080|https|unknown|United States|
+|54.64.239.229|3128|https|medium|Japan|
+|1.32.54.254|8080|https|medium|Malaysia|
+|35.167.149.29|3128|http|medium|United States|
+|46.52.153.74|49456|https|high|Russian Federation|
+|200.255.220.211|8080|https|unknown|Brazil|
+|104.216.26.184|5602|http|low|United States|
 |194.182.64.102|3128|https|low|Czech|
-|122.70.137.154|3128|https|low|China|
 |180.63.131.247|3128|https|low|Japan|
+|122.70.137.154|3128|https|low|China|
 |45.77.144.124|80|https|low|United|
 |45.55.39.11|8118|https|high|United|
 |62.133.191.116|8080|https|high|Russia|
