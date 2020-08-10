@@ -4,6 +4,8 @@
 
 This project has been migrated to: https://www.freeproxy.world/
 
-免费的代理IP，定时更新，定期更新
+免费的代理IP，定时更新
+
+Free proxy IP, updated regularly
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/free-proxy-list) 
